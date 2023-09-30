@@ -1,20 +1,18 @@
-# Data-analysis-Portfolio
-Welcome to my data analysis portfolio! Here, you'll find a collection of my data-driven projects and analyses that demonstrate my passion for extracting insights and making data-driven decisions.
+# Data-analytics-Portfolio
+Welcome to my data analytics portfolio! Here, you'll find a collection of my data-driven projects and analyses that demonstrate my passion for extracting insights and making data-driven decisions.
 
 **About Me**:
 I'm Toritseju, a dedicated data analyst with a strong foundation in problem-solving. My goal is to leverage data to uncover valuable insights and help drive informed business decisions.
 
 **What You'll Find**:
 
-**Data Analysis Projects**: Explore a variety of data analysis projects that showcase my analytical skills. From exploratory data analysis to predictive modeling, these projects cover a wide range of topics and industries.
+**Data Analytics Projects**: Explore a variety of data analytics projects that showcase my analytical skills. From exploratory data analysis to predictive modeling, these projects cover a wide range of topics and industries.
 
 **Data Visualizations:** Dive into captivating data visualizations that make complex information easy to understand. I believe that compelling visuals are key to conveying insights effectively.
 
-**Statistical Insights:** Discover statistical analyses that provide meaningful interpretations of data trends and patterns. I believe in the power of statistics to uncover actionable insights.
+**Why Data Analytics Matters:**
 
-**Why Data Analysis Matters:**
-
-Data analysis is more than just numbers; it's about telling stories, solving problems, and driving growth. In an increasingly data-driven world, businesses and organizations rely on skilled data analysts to guide their strategies and decision-making processes.
+Data analytics is more than just numbers; it's about telling stories, solving problems, and driving growth. In an increasingly data-driven world, businesses and organizations rely on skilled data analysts to guide their strategies and decision-making processes.
 
 **Let's Connect:**
 
